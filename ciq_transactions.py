@@ -1,8 +1,9 @@
 # Created and maintained by coco.lin at chicagobooth.edu
 # 
-# This code can be run on Jupyter Notebook on WRDS' server. Learn more and enter WRDS' JupyterHub via
-# https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-python/jupyterhub-wrds/
-# if your organization provides access to WRDS.
+# This code can be run on JupyterHub on WRDS' server. Copy the code below and past it to a Jupyter Notebook (.ipynb).
+# Learn more and enter WRDS' JupyterHub via
+#   https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-python/jupyterhub-wrds/
+#   if your organization provides access to WRDS.
 
 import wrds
 import html
