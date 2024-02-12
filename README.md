@@ -9,4 +9,4 @@ The code was written to run on JupyterHub on WRDS. If you want to run the code i
 To learn more about WRDS APIs, please visit [the official WRDS github](https://github.com/wharton/wrds/) and [this short tutorial](https://matteocourthoud.github.io/post/wrds/).
 
 # To-do list
-[ ] Explore WRDS's SAS data source and wrds2pg package (h/t https://github.com/iangow/wrds_pg)
+- [ ] Explore WRDS's SAS data source and wrds2pg package (h/t https://github.com/iangow/wrds_pg)
