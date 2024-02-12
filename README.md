@@ -6,4 +6,4 @@ ciq_transactions.py - showcasing how to use complex SQL instructions to pull and
 
 The code was written to run on JupyterHub on WRDS. If you want to run the code in a different setting, extra setups and tweaks may be required.
 
-To learn more about WRDS APIs, please visit https://github.com/wharton/wrds/.
+To learn more about WRDS APIs, please visit [the official WRDS github](https://github.com/wharton/wrds/) and [this short tutorial](https://matteocourthoud.github.io/post/wrds/).
